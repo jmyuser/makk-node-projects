@@ -1,0 +1,13 @@
+{
+  "name": "TextEditor",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "ejs": "1.0.0",
+	"express" : "4.8.3",
+	"socket.io" : "0.9.6"
+  }
+}
